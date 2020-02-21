@@ -1,5 +1,5 @@
 ---
-- name: debian | Installing Pre-Reqs
+- name: debian | Installing Python Packages
   apt:
     name: "{{ bootstrap_python_packages }}"
     state: present

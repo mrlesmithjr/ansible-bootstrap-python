@@ -7,3 +7,9 @@
 
 - include_tasks: redhat.yml
   when: ansible_os_family == "RedHat"
+
+# We do this to rediscover Python interpreter, etc.
+- name: Rediscover Facts
+  setup:
+    gather_subset:
+      - all

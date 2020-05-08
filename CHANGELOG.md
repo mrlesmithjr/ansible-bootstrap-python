@@ -1,3 +1,9 @@
+commit 65e9e8e7522ee9f1faa8560b3a6c9b8e2bbc608b
+Author: Larry Smith Jr <mrlesmithjr@gmail.com>
+Date:   Thu Feb 27 11:09:38 2020 -0500
+
+    Added CHANGELOG
+
 commit c16f90a48d177e3c649f6e458b5170d61f588d1f
 Author: Larry Smith Jr <mrlesmithjr@gmail.com>
 Date:   Thu Feb 27 11:07:37 2020 -0500

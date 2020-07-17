@@ -1,3 +1,23 @@
+commit 0edc1feea7df5a95b891077d88d1d3abbfa28da4
+Author: Larry Smith Jr <mrlesmithjr@gmail.com>
+Date:   Fri Jul 17 09:07:20 2020 -0400
+
+    Added Apt cache_valid_time back
+
+commit af327d2594b8dd2723abffe4b5406bc095a305f6
+Author: Larry Smith Jr <mrlesmithjr@gmail.com>
+Date:   Fri Jul 17 09:07:01 2020 -0400
+
+    Updated Python requirements
+
+commit f433bed712a9f461dbb7bbbb991c653d5aa93c8e
+Author: Larry Smith Jr <mrlesmithjr@gmail.com>
+Date:   Fri Jul 17 08:33:07 2020 -0400
+
+    No winning here
+    
+    Regardless of which route we take with apt cache_valid_time, Molecule has issues
+
 commit cce19d1433feae47ce10a74446d28880d3dc0244
 Author: Larry Smith Jr <mrlesmithjr@gmail.com>
 Date:   Fri Jul 17 08:14:40 2020 -0400

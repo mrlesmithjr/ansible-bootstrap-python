@@ -1,3 +1,12 @@
+commit 324748bcffad155775bd64368e00c0bdedf10ac6
+Author: Larry Smith Jr <mrlesmithjr@gmail.com>
+Date:   Thu May 7 22:55:41 2020 -0400
+
+    Added APT cache update for Debian
+    
+    To ensure that our apt sources are updated in order to install packages.
+    We needed to add this.
+
 commit 65e9e8e7522ee9f1faa8560b3a6c9b8e2bbc608b
 Author: Larry Smith Jr <mrlesmithjr@gmail.com>
 Date:   Thu Feb 27 11:09:38 2020 -0500

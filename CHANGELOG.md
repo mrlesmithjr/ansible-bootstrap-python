@@ -1,3 +1,11 @@
+commit cce19d1433feae47ce10a74446d28880d3dc0244
+Author: Larry Smith Jr <mrlesmithjr@gmail.com>
+Date:   Fri Jul 17 08:14:40 2020 -0400
+
+    Changing Apt Cache valid time
+    
+    For whatever reason cache is not updating as we are expecting
+
 commit b896bde5857f54169e6980184b4ae0a02af01885
 Author: Larry Smith Jr <mrlesmithjr@gmail.com>
 Date:   Fri Jul 17 08:04:28 2020 -0400

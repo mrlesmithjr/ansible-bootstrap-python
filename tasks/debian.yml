@@ -2,7 +2,7 @@
 - name: debian | Update APT Cache
   apt:
     update_cache: true
-    cache_valid_time: 3600
+    cache_valid_time: 300
   become: true
 
 - name: debian | Installing Python Packages
